@@ -1,16 +1,31 @@
 ### Hi there 👋
 
-<!--
-**PatrykMCoder/PatrykMCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Patryk, 20 yo.
 
-Here are some ideas to get you started:
+# Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My languages: Java - still learning! :D
+
+In free time I'm learning Python for fun. :)
+
+# Main Project
+
+Currenty working on: https://github.com/PatrykMCoder/Todo
+
+You can download this application from Google Store. Here is attachment: https://play.google.com/store/apps/details?id=com.pmprogramms.todo 
+
+# Other Projects
+
+## Android/Java
+
+Wikipedia search: https://github.com/PatrykMCoder/Wikipedia-Search
+
+## Python 
+
+Media player: https://github.com/PatrykMCoder/mp3-player-Python
+
+# Contact
+
+You can DM on Instagram: @patryk_programmer
+
+
