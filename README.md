@@ -19,6 +19,7 @@ You can download this application from Google Store. Here is attachment: https:/
 ## Android/Java
 
 Wikipedia search: https://github.com/PatrykMCoder/Wikipedia-Search
+Timer: https://github.com/PatrykMCoder/Timer
 
 ## Python 
 
