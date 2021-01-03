@@ -5,6 +5,7 @@ I'm Patryk, 20 yo.
 # Languages
 
 My languages: Java - still learning! :D
+
 On this year I want to learn Kotlin :)
 
 In free time I'm learning Python for fun. :)
