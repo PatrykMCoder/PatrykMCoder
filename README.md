@@ -24,6 +24,10 @@ Wikipedia search: https://github.com/PatrykMCoder/Wikipedia-Search
 
 Timer: https://github.com/PatrykMCoder/Timer
 
+## Android/Kotlin
+
+Contacts app: https://github.com/PatrykMCoder/Contacts
+
 ## Python 
 
 Media player: https://github.com/PatrykMCoder/mp3-player-Python
