@@ -32,6 +32,8 @@ Contacts app: https://github.com/PatrykMCoder/Contacts
 
 Media player: https://github.com/PatrykMCoder/mp3-player-Python
 
+Setup Py project:  https://github.com/PatrykMCoder/setup_project
+
 # Contact
 
 You can DM on Instagram: @patryk_programmer
