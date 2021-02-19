@@ -28,6 +28,10 @@ Timer: https://github.com/PatrykMCoder/Timer
 
 Contacts app: https://github.com/PatrykMCoder/Contacts
 
+Password Generator app: https://github.com/PatrykMCoder/PasswordGenerator
+
+Shopping list app: https://github.com/PatrykMCoder/ShoppingList
+
 ## Python 
 
 Media player: https://github.com/PatrykMCoder/mp3-player-Python
