@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Patryk, 21 yo.
+I'm Patryk, 22 yo.
 
 # Languages
 
@@ -35,6 +35,8 @@ Shopping list app: https://github.com/PatrykMCoder/ShoppingList
 Cloud App: https://github.com/PatrykMCoder/CloudApp
 
 RepoBook: https://github.com/PatrykMCoder/RepoBook
+
+KoinDI: https://github.com/PatrykMCoder/KoinExample
 
 ## Python 
 
