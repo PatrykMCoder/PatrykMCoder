@@ -1,51 +1,37 @@
-### Hi there 👋
+# 👋 Hi, I'm Patryk!
 
-I'm Patryk, 22 yo.
+### 📱 Android Developer | 💻 Java/Kotlin | 🌐 JavaScript
 
-# Languages
+## 📄 About Me
 
-My languages: Java - still learning! :D
+My name is Patryk and I am an Android Developer, aged 24. I have been working in mobile development for several years, specializing in creating Android applications.
+## 🔧 Technologies and Tools
 
-On this year I want to learn Kotlin :)
+- **Java/Kotlin**: Primary programming languages I use for Android development.
+- **Android SDK**: I utilize the tools and libraries available in the Android SDK to build modern applications.
+- **JavaScript(Web)**: I use JavaScript to create dynamic user interfaces and integrate with backend services.
+- **Git**: I manage code versions using the Git version control system.
+- **Android Studio**: The main integrated development environment (IDE) I use for developing Android apps.
 
-In free time I'm learning Python for fun. :)
+## 🚀 Projects
 
-# Main Project
+In my repository, you will find various projects I have worked on. Each one showcases my skills and experience in mobile application development. Here are a few examples:
 
-Currenty working on: https://github.com/PatrykMCoder/Todo
+- [**TodoNote Android APP**](https://github.com/PatrykMCoder/Todo): Simpe todo app for Android.
+- [**ShoppingList APP**](https://github.com/PatrykMCoder/ShoppingList): Simple Shopping List App for Android
+- [**Cloud APP**](https://github.com/PatrykMCoder/CloudApp): Exmaple Firebase app with CloudStorage
 
-You can download this application from Google Store. Here is attachment: https://play.google.com/store/apps/details?id=com.pmprogramms.todo 
+## 📈 GitHub Stats
 
-# Other Projects
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PatrykMCoder&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrykMCoder&layout=compact&theme=radical)
 
-## Android/Java
+## 🌟 Contact
 
-Wikipedia search: https://github.com/PatrykMCoder/Wikipedia-Search
+- **Email**: [patrykmarciszewski3@gmail.com](mailto:patrykmarciszewski3@gmail.com)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/patryk-marciszewski)
+- **Instagram**: [My Instagram Profile](https://www.instagram.com/patryk_programmer/)
 
-Timer: https://github.com/PatrykMCoder/Timer
+I am always open to new challenges and projects. If you have an idea for collaboration, feel free to reach out to me!
 
-## Android/Kotlin
-
-Contacts app: https://github.com/PatrykMCoder/Contacts
-
-Password Generator app: https://github.com/PatrykMCoder/PasswordGenerator
-
-Shopping list app: https://github.com/PatrykMCoder/ShoppingList
-
-Cloud App: https://github.com/PatrykMCoder/CloudApp
-
-RepoBook: https://github.com/PatrykMCoder/RepoBook
-
-KoinDI: https://github.com/PatrykMCoder/KoinExample
-
-## Python 
-
-Media player: https://github.com/PatrykMCoder/mp3-player-Python
-
-Setup Py project:  https://github.com/PatrykMCoder/setup_project
-
-# Contact
-
-You can DM on Instagram: @patryk_programmer
-
-
+Thanks for visiting my profile! 😊
