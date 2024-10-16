@@ -21,6 +21,10 @@ In my repository, you will find various projects I have worked on. Each one show
 - [**ShoppingList APP**](https://github.com/PatrykMCoder/ShoppingList): Simple Shopping List App for Android
 - [**Cloud APP**](https://github.com/PatrykMCoder/CloudApp): Exmaple Firebase app with CloudStorage
 
+
+## 📚 #100DaysOfCode - Learning SwiftUI
+I'm currently taking on the **#100DaysOfCode** challenge to learn **SwiftUI** and expand my mobile development skills to iOS. This challenge allows me to explore a new ecosystem and further my expertise in cross-platform development.
+
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PatrykMCoder&show_icons=true&theme=radical)
