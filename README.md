@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Patryk!
 
-### 📱 Android Developer | 💻 Java/Kotlin | 🌐 JavaScript
+### 📱 Mobile Developer | 💻 Java/Kotlin/Swift/SwiftUI | 🌐 JavaScript
 
 ## 📄 About Me
 
@@ -9,9 +9,11 @@ My name is Patryk and I am an Android Developer, aged 24. I have been working in
 
 - **Java/Kotlin**: Primary programming languages I use for Android development.
 - **Android SDK**: I utilize the tools and libraries available in the Android SDK to build modern applications.
+- **Swift**: Language I use for building iOS applications with SwiftUI.
 - **JavaScript(Web)**: I use JavaScript to create dynamic user interfaces and integrate with backend services.
 - **Git**: I manage code versions using the Git version control system.
-- **Android Studio**: The main integrated development environment (IDE) I use for developing Android apps.
+- **Android Studio**: My main IDE for developing I use for developing Android apps.
+- **Xcode**: My main IDE for developing iOS applications.
 
 ## 🚀 Projects
 
