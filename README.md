@@ -22,8 +22,8 @@ In my repository, you will find various projects I have worked on. Each one show
 - [**Cloud APP**](https://github.com/PatrykMCoder/CloudApp): Exmaple Firebase app with CloudStorage
 
 
-## 📚 #100DaysOfCode - Learning SwiftUI
-I'm currently taking on the **#100DaysOfCode** challenge to learn **SwiftUI** and expand my mobile development skills to iOS. This challenge allows me to explore a new ecosystem and further my expertise in cross-platform development.
+## 📚 #100DaysOfCode - SwiftUI Journey Complete
+Challenge complete! After 100 days of coding in SwiftUI, I’ve gained hands-on experience building iOS apps from scratch. It’s been a rewarding journey that’s broadened my mobile dev skills and opened the door to exciting new opportunities in the Apple ecosystem.
 
 ## 📈 GitHub Stats
 
