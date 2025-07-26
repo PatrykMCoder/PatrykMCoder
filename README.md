@@ -4,7 +4,7 @@
 
 ## 📄 About Me
 
-My name is Patryk and I am an Android Developer, aged 24. I have been working in mobile development for several years, specializing in creating Android applications.
+My name is Patryk and I am an Android Developer, aged 25. I have been working in mobile development for several years, specializing in creating Android applications.
 ## 🔧 Technologies and Tools
 
 - **Java/Kotlin**: Primary programming languages I use for Android development.
